@@ -1,0 +1,13 @@
+[package]
+name = "twitter-watch"
+authors = ["Travis Brown <travisrobertbrown@gmail.com>"]
+repository = "https://github.com/travisbrown/twitter-watch"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+clap = { version = "3", features = ["derive"] }
+csv = "1"
+regex = "1"
+thiserror = "1"
