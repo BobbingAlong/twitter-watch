@@ -67,7 +67,7 @@ fn main() -> Result<(), Error> {
             for (date, records) in date_records.into_iter().take(REPORTED_LIMIT) {
                 println!("\n## {}", date.format(HEADER_DATE_FORMAT));
                 println!(
-                    "Found {} screen name changes, with {} included here.",
+                    "Found {} screen name changes, with {} included here. ✔️ indicates that the account is verified and 🔒 that it is locked.",
                     records.len(),
                     records
                         .iter()
@@ -190,7 +190,7 @@ fn main() -> Result<(), Error> {
             for (date, records, unknown_count) in date_records.into_iter().take(REPORTED_LIMIT) {
                 println!("\n## {}", date.format(HEADER_DATE_FORMAT));
                 println!(
-                    "Found {} suspensions, with {} included here.",
+                    "Found {} suspensions, with {} included here. ✔️ indicates that the account was verified and 🔒 that it was locked.",
                     records.len() + unknown_count,
                     records
                         .iter()

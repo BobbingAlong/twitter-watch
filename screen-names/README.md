@@ -22,7 +22,7 @@ The full history of all detected changes for all tracked users is available in t
 * [ 8 February 2022 (93 changes found)](#8-February-2022)
 
 ## 19 February 2022
-Found 528 screen name changes, with 141 included here.
+Found 528 screen name changes, with 141 included here. ✔️ indicates that the account is verified and 🔒 that it is locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Previous screen name</th>
 <th align="left">New screen name</th><th align="left">Status</th><th align="left">Follower count</th></tr>
@@ -170,7 +170,7 @@ Found 528 screen name changes, with 141 included here.
 </table>
 
 ## 18 February 2022
-Found 1491 screen name changes, with 418 included here.
+Found 1491 screen name changes, with 418 included here. ✔️ indicates that the account is verified and 🔒 that it is locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Previous screen name</th>
 <th align="left">New screen name</th><th align="left">Status</th><th align="left">Follower count</th></tr>
@@ -595,7 +595,7 @@ Found 1491 screen name changes, with 418 included here.
 </table>
 
 ## 17 February 2022
-Found 519 screen name changes, with 166 included here.
+Found 519 screen name changes, with 166 included here. ✔️ indicates that the account is verified and 🔒 that it is locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Previous screen name</th>
 <th align="left">New screen name</th><th align="left">Status</th><th align="left">Follower count</th></tr>
@@ -768,7 +768,7 @@ Found 519 screen name changes, with 166 included here.
 </table>
 
 ## 16 February 2022
-Found 1612 screen name changes, with 492 included here.
+Found 1612 screen name changes, with 492 included here. ✔️ indicates that the account is verified and 🔒 that it is locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Previous screen name</th>
 <th align="left">New screen name</th><th align="left">Status</th><th align="left">Follower count</th></tr>
@@ -1267,7 +1267,7 @@ Found 1612 screen name changes, with 492 included here.
 </table>
 
 ## 15 February 2022
-Found 972 screen name changes, with 333 included here.
+Found 972 screen name changes, with 333 included here. ✔️ indicates that the account is verified and 🔒 that it is locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Previous screen name</th>
 <th align="left">New screen name</th><th align="left">Status</th><th align="left">Follower count</th></tr>
@@ -1607,7 +1607,7 @@ Found 972 screen name changes, with 333 included here.
 </table>
 
 ## 12 February 2022
-Found 303 screen name changes, with 98 included here.
+Found 303 screen name changes, with 98 included here. ✔️ indicates that the account is verified and 🔒 that it is locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Previous screen name</th>
 <th align="left">New screen name</th><th align="left">Status</th><th align="left">Follower count</th></tr>
@@ -1712,7 +1712,7 @@ Found 303 screen name changes, with 98 included here.
 </table>
 
 ## 10 February 2022
-Found 8 screen name changes, with 4 included here.
+Found 8 screen name changes, with 4 included here. ✔️ indicates that the account is verified and 🔒 that it is locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Previous screen name</th>
 <th align="left">New screen name</th><th align="left">Status</th><th align="left">Follower count</th></tr>
@@ -1723,7 +1723,7 @@ Found 8 screen name changes, with 4 included here.
 </table>
 
 ##  9 February 2022
-Found 55 screen name changes, with 12 included here.
+Found 55 screen name changes, with 12 included here. ✔️ indicates that the account is verified and 🔒 that it is locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Previous screen name</th>
 <th align="left">New screen name</th><th align="left">Status</th><th align="left">Follower count</th></tr>
@@ -1742,7 +1742,7 @@ Found 55 screen name changes, with 12 included here.
 </table>
 
 ##  8 February 2022
-Found 93 screen name changes, with 34 included here.
+Found 93 screen name changes, with 34 included here. ✔️ indicates that the account is verified and 🔒 that it is locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Previous screen name</th>
 <th align="left">New screen name</th><th align="left">Status</th><th align="left">Follower count</th></tr>

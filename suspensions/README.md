@@ -10,7 +10,7 @@ Please note:
 
 The full history of all detected suspensions for all tracked users is available in the [`data.csv`](./data.csv) file.
 ## Contents
-* [19 February 2022 (321 suspensions found)](#19-February-2022)
+* [19 February 2022 (325 suspensions found)](#19-February-2022)
 * [18 February 2022 (505 suspensions found)](#18-February-2022)
 * [17 February 2022 (206 suspensions found)](#17-February-2022)
 * [16 February 2022 (673 suspensions found)](#16-February-2022)
@@ -19,7 +19,7 @@ The full history of all detected suspensions for all tracked users is available 
 * [13 February 2022 (3743 suspensions found)](#13-February-2022)
 
 ## 19 February 2022
-Found 321 suspensions, with 106 included here.
+Found 325 suspensions, with 107 included here. ✔️ indicates that the account was verified and 🔒 that it was locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Screen name</th>
 <th align="left">Created</th><th align="left">Reversed</th>
@@ -102,6 +102,7 @@ Found 321 suspensions, with 106 included here.
 <tr><td><a href="https://pbs.twimg.com/profile_images/1306496090347171848/Vy-wF5sD_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1306496090347171848/Vy-wF5sD_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1889472228">1889472228</a></td><td><a href="https://twitter.com/morrison_ri">morrison_ri</a></td><td>2013-09-21</td><td></td><td align="center"></td><td>366</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1482267788202946560/-m7QkqxR_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1482267788202946560/-m7QkqxR_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1378865658990108677">1378865658990108677</a></td><td><a href="https://twitter.com/sissy_college">sissy_college</a></td><td>2021-04-05</td><td></td><td align="center"></td><td>365</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1488145827725987842/WRPfokKI_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1488145827725987842/WRPfokKI_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1469742231036825601">1469742231036825601</a></td><td><a href="https://twitter.com/crasnicul21">crasnicul21</a></td><td>2021-12-11</td><td></td><td align="center"></td><td>331</td></tr>
+<tr><td><a href="https://pbs.twimg.com/profile_images/1493694148788035591/GlgEPUbb_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1493694148788035591/GlgEPUbb_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1493456091455406080">1493456091455406080</a></td><td><a href="https://twitter.com/RapeVictimLs">RapeVictimLs</a></td><td>2022-02-15</td><td></td><td align="center"></td><td>317</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1492037465846079489/Zbmrgsmj_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1492037465846079489/Zbmrgsmj_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1397219024556105728">1397219024556105728</a></td><td><a href="https://twitter.com/AnupSinghSurya6">AnupSinghSurya6</a></td><td>2021-05-25</td><td></td><td align="center"></td><td>314</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/862520835617284096/IZzE0FEt_normal.jpg"><img src="https://pbs.twimg.com/profile_images/862520835617284096/IZzE0FEt_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=862514856263651329">862514856263651329</a></td><td><a href="https://twitter.com/JopharHautman">JopharHautman</a></td><td>2017-05-11</td><td></td><td align="center"></td><td>299</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1483035244987047943/93Vj2oVR_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1483035244987047943/93Vj2oVR_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=330842018">330842018</a></td><td><a href="https://twitter.com/1869Saber">1869Saber</a></td><td>2011-07-07</td><td></td><td align="center"></td><td>298</td></tr>
@@ -133,7 +134,7 @@ Found 321 suspensions, with 106 included here.
 </table>
 
 ## 18 February 2022
-Found 505 suspensions, with 153 included here.
+Found 505 suspensions, with 153 included here. ✔️ indicates that the account was verified and 🔒 that it was locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Screen name</th>
 <th align="left">Created</th><th align="left">Reversed</th>
@@ -166,7 +167,7 @@ Found 505 suspensions, with 153 included here.
 <tr><td><a href="https://pbs.twimg.com/profile_images/1478837462533353472/WHYx5lB6_normal.jpg"><img src="./thumbnails/1478837462533353472-WHYx5lB6_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1243274330768891904">1243274330768891904</a></td><td><a href="https://twitter.com/Naria_T_Oryen">Naria_T_Oryen</a></td><td>2020-03-26</td><td></td><td align="center"></td><td>1656</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1459181233687212033/MC_h5QmW_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1459181233687212033/MC_h5QmW_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=76912645">76912645</a></td><td><a href="https://twitter.com/casco28">casco28</a></td><td>2009-09-24</td><td></td><td align="center"></td><td>1650</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1477440983944114191/4OwVFnv4_normal.jpg"><img src="./thumbnails/1477440983944114191-4OwVFnv4_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1273764865988050944">1273764865988050944</a></td><td><a href="https://twitter.com/john_lawful">john_lawful</a></td><td>2020-06-18</td><td></td><td align="center"></td><td>1544</td></tr>
-<tr><td><a href="https://pbs.twimg.com/profile_images/1477186583400902658/IcXg94oO_normal.jpg"><img src="./thumbnails/1477186583400902658-IcXg94oO_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1267978491686817793">1267978491686817793</a></td><td><a href="https://twitter.com/ReisVanDam">ReisVanDam</a></td><td>2020-06-03</td><td></td><td align="center"></td><td>1491</td></tr>
+<tr><td><a href="https://pbs.twimg.com/profile_images/1477186583400902658/IcXg94oO_normal.jpg"><img src="./thumbnails/1477186583400902658-IcXg94oO_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1267978491686817793">1267978491686817793</a></td><td><a href="https://twitter.com/ReisVanDam">ReisVanDam</a></td><td>2020-06-03</td><td>2022-02-19</td><td align="center"></td><td>1491</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1423661731100901376/nTygUMhT_normal.jpg"><img src="./thumbnails/1423661731100901376-nTygUMhT_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=65560927">65560927</a></td><td><a href="https://twitter.com/davidfit">davidfit</a></td><td>2009-08-14</td><td></td><td align="center"></td><td>1391</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1439084053374791681/XrKCw-zU_normal.jpg"><img src="./thumbnails/1439084053374791681-XrKCw-zU_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=752306247601360896">752306247601360896</a></td><td><a href="https://twitter.com/MsandristBuster">MsandristBuster</a></td><td>2016-07-11</td><td></td><td align="center"></td><td>1391</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1486858323458764801/WohY9IbG_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1486858323458764801/WohY9IbG_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=887395069845803010">887395069845803010</a></td><td><a href="https://twitter.com/Susanj616">Susanj616</a></td><td>2017-07-18</td><td></td><td align="center"></td><td>1286</td></tr>
@@ -206,7 +207,7 @@ Found 505 suspensions, with 153 included here.
 <tr><td><a href="https://pbs.twimg.com/profile_images/1415400947853844480/ycB6H-VI_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1415400947853844480/ycB6H-VI_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1396758654964088832">1396758654964088832</a></td><td><a href="https://twitter.com/y4nk3r">y4nk3r</a></td><td>2021-05-24</td><td></td><td align="center"></td><td>647</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1479167464999202816/uIUkNP_Z_normal.jpg"><img src="./thumbnails/1479167464999202816-uIUkNP_Z_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1433807341800001558">1433807341800001558</a></td><td><a href="https://twitter.com/Val_4000">Val_4000</a></td><td>2021-09-03</td><td></td><td align="center"></td><td>643</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1469834070620352512/pBtYFm24_normal.jpg"><img src="./thumbnails/1469834070620352512-pBtYFm24_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1469396198020853766">1469396198020853766</a></td><td><a href="https://twitter.com/KittyKittyfangs">KittyKittyfangs</a></td><td>2021-12-10</td><td></td><td align="center"></td><td>609</td></tr>
-<tr><td><a href="https://pbs.twimg.com/profile_images/1411360007958970379/wT0nEXdM_normal.jpg"><img src="./thumbnails/1411360007958970379-wT0nEXdM_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=136489444">136489444</a></td><td><a href="https://twitter.com/CR821988">CR821988</a></td><td>2010-04-24</td><td></td><td align="center">🔒</td><td>599</td></tr>
+<tr><td><a href="https://pbs.twimg.com/profile_images/1411360007958970379/wT0nEXdM_normal.jpg"><img src="./thumbnails/1411360007958970379-wT0nEXdM_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=136489444">136489444</a></td><td><a href="https://twitter.com/CR821988">CR821988</a></td><td>2010-04-24</td><td>2022-02-19</td><td align="center">🔒</td><td>599</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1415351469017075721/8-krw_bA_normal.jpg"><img src="./thumbnails/1415351469017075721-8-krw_bA_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1414984553773555716">1414984553773555716</a></td><td><a href="https://twitter.com/k9_major">k9_major</a></td><td>2021-07-13</td><td></td><td align="center"></td><td>565</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1455168286442807305/7WSdy2DZ_normal.jpg"><img src="./thumbnails/1455168286442807305-7WSdy2DZ_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=331841182">331841182</a></td><td><a href="https://twitter.com/goonersverse">goonersverse</a></td><td>2011-07-08</td><td></td><td align="center"></td><td>551</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1379797215737155585/xNGnwl97_normal.jpg"><img src="./thumbnails/1379797215737155585-xNGnwl97_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=220124236">220124236</a></td><td><a href="https://twitter.com/Pargaras">Pargaras</a></td><td>2010-11-26</td><td></td><td align="center"></td><td>548</td></tr>
@@ -294,7 +295,7 @@ Found 505 suspensions, with 153 included here.
 </table>
 
 ## 17 February 2022
-Found 206 suspensions, with 58 included here.
+Found 206 suspensions, with 58 included here. ✔️ indicates that the account was verified and 🔒 that it was locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Screen name</th>
 <th align="left">Created</th><th align="left">Reversed</th>
@@ -339,7 +340,7 @@ Found 206 suspensions, with 58 included here.
 <tr><td><a href="https://pbs.twimg.com/profile_images/1279177599659491329/YLmyvuwl_normal.jpg"><img src="./thumbnails/1279177599659491329-YLmyvuwl_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=2416675855">2416675855</a></td><td><a href="https://twitter.com/M00BBB">M00BBB</a></td><td>2014-03-29</td><td></td><td align="center"></td><td>469</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1482322129458716672/oqwHj5Kt_normal.jpg"><img src="./thumbnails/1482322129458716672-oqwHj5Kt_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1104780255192068098">1104780255192068098</a></td><td><a href="https://twitter.com/Dadbloke1">Dadbloke1</a></td><td>2019-03-10</td><td></td><td align="center"></td><td>423</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1475942815511293954/4UayY12a_normal.jpg"><img src="./thumbnails/1475942815511293954-4UayY12a_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1475941908803428352">1475941908803428352</a></td><td><a href="https://twitter.com/methrapist1488">methrapist1488</a></td><td>2021-12-28</td><td></td><td align="center"></td><td>401</td></tr>
-<tr><td><a href="https://pbs.twimg.com/profile_images/1145724414820003842/YvdljCJp_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1145724414820003842/YvdljCJp_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=298964096">298964096</a></td><td><a href="https://twitter.com/Oyaluna_samuel">Oyaluna_samuel</a></td><td>2011-05-15</td><td></td><td align="center">🔒</td><td>382</td></tr>
+<tr><td><a href="https://pbs.twimg.com/profile_images/1145724414820003842/YvdljCJp_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1145724414820003842/YvdljCJp_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=298964096">298964096</a></td><td><a href="https://twitter.com/Oyaluna_samuel">Oyaluna_samuel</a></td><td>2011-05-15</td><td>2022-02-19</td><td align="center">🔒</td><td>382</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1456280737393618946/TG7C_LXr_normal.jpg"><img src="./thumbnails/1456280737393618946-TG7C_LXr_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1350186419399102473">1350186419399102473</a></td><td><a href="https://twitter.com/ADPerkins21">ADPerkins21</a></td><td>2021-01-15</td><td></td><td align="center"></td><td>376</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1419024025339244547/3rIvXKzw_normal.jpg"><img src="./thumbnails/1419024025339244547-3rIvXKzw_400x400.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1374789708413296643">1374789708413296643</a></td><td><a href="https://twitter.com/TwoThumbs8">TwoThumbs8</a></td><td>2021-03-24</td><td></td><td align="center"></td><td>361</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1490108696726327296/XkJesqKH_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1490108696726327296/XkJesqKH_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1350878105590751237">1350878105590751237</a></td><td><a href="https://twitter.com/11Hdhdhdj">11Hdhdhdj</a></td><td>2021-01-17</td><td></td><td align="center"></td><td>349</td></tr>
@@ -360,7 +361,7 @@ Found 206 suspensions, with 58 included here.
 </table>
 
 ## 16 February 2022
-Found 673 suspensions, with 115 included here.
+Found 673 suspensions, with 115 included here. ✔️ indicates that the account was verified and 🔒 that it was locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Screen name</th>
 <th align="left">Created</th><th align="left">Reversed</th>
@@ -483,7 +484,7 @@ Found 673 suspensions, with 115 included here.
 </table>
 
 ## 15 February 2022
-Found 702 suspensions, with 183 included here.
+Found 702 suspensions, with 183 included here. ✔️ indicates that the account was verified and 🔒 that it was locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Screen name</th>
 <th align="left">Created</th><th align="left">Reversed</th>
@@ -674,7 +675,7 @@ Found 702 suspensions, with 183 included here.
 </table>
 
 ## 14 February 2022
-Found 1028 suspensions, with 393 included here.
+Found 1028 suspensions, with 393 included here. ✔️ indicates that the account was verified and 🔒 that it was locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Screen name</th>
 <th align="left">Created</th><th align="left">Reversed</th>
@@ -1075,7 +1076,7 @@ Found 1028 suspensions, with 393 included here.
 </table>
 
 ## 13 February 2022
-Found 3743 suspensions, with 1680 included here.
+Found 3743 suspensions, with 1680 included here. ✔️ indicates that the account was verified and 🔒 that it was locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Screen name</th>
 <th align="left">Created</th><th align="left">Reversed</th>
