@@ -10,7 +10,7 @@ Please note:
 
 The full history of all detected suspensions for all tracked users is available in the [`data.csv`](./data.csv) file.
 ## Contents
-* [22 February 2022 (491 suspensions found)](#22-February-2022)
+* [22 February 2022 (492 suspensions found)](#22-February-2022)
 * [21 February 2022 (419 suspensions found)](#21-February-2022)
 * [20 February 2022 (1242 suspensions found)](#20-February-2022)
 * [19 February 2022 (561 suspensions found)](#19-February-2022)
@@ -22,7 +22,7 @@ The full history of all detected suspensions for all tracked users is available 
 * [13 February 2022 (3743 suspensions found)](#13-February-2022)
 
 ## 22 February 2022
-Found 491 suspensions, with 73 included here. ✔️ indicates that the account was verified and 🔒 that it was locked.
+Found 492 suspensions, with 73 included here. ✔️ indicates that the account was verified and 🔒 that it was locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Screen name</th>
 <th align="left">Created</th><th align="left">Reversed</th>
