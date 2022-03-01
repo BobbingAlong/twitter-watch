@@ -10,7 +10,7 @@ Please note:
 
 The full history of all detected suspensions for all tracked users is available in the [`data.csv`](./data.csv) file.
 ## Contents
-* [ 1 March 2022 (114 suspensions found)](#1-March-2022)
+* [ 1 March 2022 (112 suspensions found)](#1-March-2022)
 * [28 February 2022 (607 suspensions found)](#28-February-2022)
 * [27 February 2022 (279 suspensions found)](#27-February-2022)
 * [26 February 2022 (866 suspensions found)](#26-February-2022)
@@ -22,7 +22,7 @@ The full history of all detected suspensions for all tracked users is available 
 * [20 February 2022 (1242 suspensions found)](#20-February-2022)
 
 ##  1 March 2022
-Found 114 suspensions, with 41 included here. ✔️ indicates that the account was verified and 🔒 that it was locked.
+Found 112 suspensions, with 40 included here. ✔️ indicates that the account was verified and 🔒 that it was locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Screen name</th>
 <th align="left">Created</th><th align="left">Reversed</th>
@@ -53,7 +53,6 @@ Found 114 suspensions, with 41 included here. ✔️ indicates that the account 
 <tr><td><a href="https://pbs.twimg.com/profile_images/1489423453497311240/EzgdtL6__normal.jpg"><img src="https://pbs.twimg.com/profile_images/1489423453497311240/EzgdtL6__normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1476417353567162369">1476417353567162369</a></td><td><a href="https://twitter.com/Princess_Kennyy">Princess_Kennyy</a></td><td>2021-12-30</td><td></td><td align="center"></td><td>342</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1495306269665628165/Nex92PJz_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1495306269665628165/Nex92PJz_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1446269761206116352">1446269761206116352</a></td><td><a href="https://twitter.com/punchbaggf333">punchbaggf333</a></td><td>2021-10-08</td><td></td><td align="center">🔒</td><td>341</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1474113744787619843/Jm5XkZMv_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1474113744787619843/Jm5XkZMv_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1428725517209985028">1428725517209985028</a></td><td><a href="https://twitter.com/holosynesthesia">holosynesthesia</a></td><td>2021-08-20</td><td></td><td align="center"></td><td>334</td></tr>
-<tr><td><a href="https://pbs.twimg.com/profile_images/1496156776412110850/X2krPjPQ_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1496156776412110850/X2krPjPQ_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1482892763796545541">1482892763796545541</a></td><td><a href="https://twitter.com/FriendlyChap2">FriendlyChap2</a></td><td>2022-01-17</td><td></td><td align="center"></td><td>330</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1496156776412110850/X2krPjPQ_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1496156776412110850/X2krPjPQ_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1482892763796545541">1482892763796545541</a></td><td><a href="https://twitter.com/FriendlyChap2">FriendlyChap2</a></td><td>2022-01-17</td><td></td><td align="center"></td><td>330</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1475463580300587016/mvc6H0VU_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1475463580300587016/mvc6H0VU_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1457881307669843970">1457881307669843970</a></td><td><a href="https://twitter.com/Sir_Darberto">Sir_Darberto</a></td><td>2021-11-09</td><td></td><td align="center"></td><td>281</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1497845555401093125/qpzCuVlg_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1497845555401093125/qpzCuVlg_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1438755453727494154">1438755453727494154</a></td><td><a href="https://twitter.com/MkUltra141">MkUltra141</a></td><td>2021-09-17</td><td></td><td align="center"></td><td>260</td></tr>
