@@ -1,5 +1,5 @@
 # Screen name changes
-This report tracks screen name changes for several million far-right and far-right adjacent accounts on Twitter
+This report tracks screen name changes for several million accounts on Twitter, with a focus on far-right and far-right adjacent accounts
 (including a lot of crypto / NFT shit, some spam, antivaxxers, etc.).
 
 This page presents the last ten days of available data for all users with more than 200 followers.

@@ -40,7 +40,7 @@ fn main() -> Result<(), Error> {
             date_records.sort_by_key(|(date, _)| Reverse(*date));
 
             println!("# Screen name changes");
-            println!("This report tracks screen name changes for several million far-right and far-right adjacent accounts on Twitter");
+            println!("This report tracks screen name changes for several million accounts on Twitter, with a focus on far-right and far-right adjacent accounts");
             println!("(including a lot of crypto / NFT shit, some spam, antivaxxers, etc.).\n");
             println!("This page presents the last ten days of available data for all users with more than {} followers.", SCREEN_NAMES_FOLLOWERS_COUNT_LIMIT);
             println!("Please note:");
@@ -164,7 +164,7 @@ fn main() -> Result<(), Error> {
             date_records.sort_by_key(|(date, _, _)| Reverse(*date));
 
             println!("# Suspensions");
-            println!("This report tracks suspensions for several million far-right and far-right adjacent accounts on Twitter");
+            println!("This report tracks suspensions for several million accounts on Twitter, with a focus on far-right and far-right adjacent accounts");
             println!("(including a lot of crypto / NFT shit, some spam, antivaxxers, etc.).\n");
             println!("This page presents the last ten days of available data for all users with more than {} followers.", SUSPENSIONS_FOLLOWERS_COUNT_LIMIT);
             println!("Please note:");
