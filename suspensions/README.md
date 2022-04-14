@@ -10,7 +10,7 @@ Please note:
 
 The full history of all detected suspensions for all tracked users is available in the [`data.csv`](./data.csv) file.
 ## Contents
-* [14 April 2022 (531 suspensions found)](#14-April-2022)
+* [14 April 2022 (532 suspensions found)](#14-April-2022)
 * [13 April 2022 (662 suspensions found)](#13-April-2022)
 * [12 April 2022 (636 suspensions found)](#12-April-2022)
 * [11 April 2022 (751 suspensions found)](#11-April-2022)
@@ -22,7 +22,7 @@ The full history of all detected suspensions for all tracked users is available 
 * [ 5 April 2022 (1640 suspensions found)](#5-April-2022)
 
 ## 14 April 2022
-Found 531 suspensions, with 177 included here. ✔️ indicates that the account was verified and 🔒 that it was locked.
+Found 532 suspensions, with 178 included here. ✔️ indicates that the account was verified and 🔒 that it was locked.
 <table>
 <tr><th></th><th align="left">Twitter ID</th><th align="left">Screen name</th>
 <th align="left">Created</th><th align="left">Reversed</th>
@@ -41,6 +41,7 @@ Found 531 suspensions, with 177 included here. ✔️ indicates that the account
 <tr><td><a href="https://pbs.twimg.com/profile_images/1496625512025837574/HtdxJyds_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1496625512025837574/HtdxJyds_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=538381135">538381135</a></td><td><a href="https://twitter.com/holar_official">holar_official</a></td><td>2012-03-27</td><td></td><td align="center"></td><td>11521</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1491400415904215045/6R_3-_HE_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1491400415904215045/6R_3-_HE_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=223867229">223867229</a></td><td><a href="https://twitter.com/diarmuidlyng">diarmuidlyng</a></td><td>2010-12-07</td><td></td><td align="center"></td><td>9484</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1508933443111071749/Uey9YTRM_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1508933443111071749/Uey9YTRM_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1423227125126074368">1423227125126074368</a></td><td><a href="https://twitter.com/ArcadianRythms">ArcadianRythms</a></td><td>2021-08-05</td><td></td><td align="center"></td><td>9147</td></tr>
+<tr><td><a href="https://pbs.twimg.com/profile_images/1423440208188645377/y4GuvYW6_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1423440208188645377/y4GuvYW6_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1423439483152834563">1423439483152834563</a></td><td><a href="https://twitter.com/CaribbeanVirtu">CaribbeanVirtu</a></td><td>2021-08-06</td><td></td><td align="center"></td><td>8979</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1501633730129145863/PgwkFdJr_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1501633730129145863/PgwkFdJr_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1246441792020627457">1246441792020627457</a></td><td><a href="https://twitter.com/cryptonftcrt">cryptonftcrt</a></td><td>2020-04-04</td><td></td><td align="center"></td><td>7769</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1435903451871989761/GMRm2jpt_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1435903451871989761/GMRm2jpt_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1056180263389184001">1056180263389184001</a></td><td><a href="https://twitter.com/LansonLuxurious">LansonLuxurious</a></td><td>2018-10-27</td><td></td><td align="center"></td><td>6989</td></tr>
 <tr><td><a href="https://pbs.twimg.com/profile_images/1428938799816577029/PjVRfRPd_normal.jpg"><img src="https://pbs.twimg.com/profile_images/1428938799816577029/PjVRfRPd_normal.jpg" width="40px" height="40px" align="center"/></a></td><td><a href="https://twitter.com/intent/user?user_id=1428935843595567105">1428935843595567105</a></td><td><a href="https://twitter.com/AndrosPafos">AndrosPafos</a></td><td>2021-08-21</td><td></td><td align="center"></td><td>6204</td></tr>
