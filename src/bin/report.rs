@@ -6,9 +6,9 @@ use std::convert::TryFrom;
 use std::fs::File;
 use std::path::Path;
 
-const REPORTED_LIMIT: usize = 10;
+const REPORTED_LIMIT: usize = 7;
 const SCREEN_NAMES_FOLLOWERS_COUNT_LIMIT: usize = 200;
-const SUSPENSIONS_FOLLOWERS_COUNT_LIMIT: usize = 200;
+const SUSPENSIONS_FOLLOWERS_COUNT_LIMIT: usize = 100;
 const HEADER_DATE_FORMAT: &str = "%e %B %Y";
 
 fn main() -> Result<(), Error> {
@@ -164,13 +164,15 @@ fn main() -> Result<(), Error> {
             date_records.sort_by_key(|(date, _, _)| Reverse(*date));
 
             println!("# Suspensions");
-            println!("This report tracks suspensions for several million accounts on Twitter, with a focus on far-right and far-right adjacent accounts");
+            println!("This report tracks suspensions for about 20 million accounts on Twitter, with a focus on far-right and far-right adjacent accounts");
             println!("(including a lot of crypto / NFT shit, some spam, antivaxxers, etc.).\n");
-            println!("This page presents the last ten days of available data for all users with more than {} followers.", SUSPENSIONS_FOLLOWERS_COUNT_LIMIT);
+            println!("This page presents the last week of available data for all users with more than {} followers.", SUSPENSIONS_FOLLOWERS_COUNT_LIMIT);
             println!("Please note:");
             println!("* The dates listed indicate when the suspension or reversal was detected, and in some cases it may have happened earlier.");
             println!("* In some cases the screen name may have been changed before the account was suspended.");
             println!("* There's a lot of potentially offensive content here, including racial slurs and obscenity.\n");
+            println!("* The presence of an account on this list does not indicate that we have identified it as a far-right account, just that it has connections to far-right networks.\n");
+
             println!("The full history of all detected suspensions for all tracked users is available in the [`data.csv`](./data.csv) file.");
 
             println!("## Contents");
