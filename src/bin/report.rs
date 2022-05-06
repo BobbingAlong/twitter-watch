@@ -8,7 +8,7 @@ use std::path::Path;
 
 const REPORTED_LIMIT: usize = 7;
 const SCREEN_NAMES_FOLLOWERS_COUNT_LIMIT: usize = 200;
-const SUSPENSIONS_FOLLOWERS_COUNT_LIMIT: usize = 100;
+const SUSPENSIONS_FOLLOWERS_COUNT_LIMIT: usize = 250;
 const HEADER_DATE_FORMAT: &str = "%e %B %Y";
 
 fn main() -> Result<(), Error> {
@@ -170,7 +170,7 @@ fn main() -> Result<(), Error> {
             println!("Please note:");
             println!("* The dates listed indicate when the suspension or reversal was detected, and in some cases it may have happened earlier.");
             println!("* In some cases the screen name may have been changed before the account was suspended.");
-            println!("* There's a lot of potentially offensive content here, including racial slurs and obscenity.\n");
+            println!("* There's a lot of potentially offensive content here, including racial slurs and obscenity.");
             println!("* The presence of an account on this list does not indicate that we have identified it as a far-right account, just that it has connections to far-right networks.\n");
 
             println!("The full history of all detected suspensions for all tracked users is available in the [`data.csv`](./data.csv) file.");

@@ -7,7 +7,6 @@ Please note:
 * The dates listed indicate when the suspension or reversal was detected, and in some cases it may have happened earlier.
 * In some cases the screen name may have been changed before the account was suspended.
 * There's a lot of potentially offensive content here, including racial slurs and obscenity.
-
 * The presence of an account on this list does not indicate that we have identified it as a far-right account, just that it has connections to far-right networks.
 
 The full history of all detected suspensions for all tracked users is available in the [`data.csv`](./data.csv) file.
